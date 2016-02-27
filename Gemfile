@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+gem 'grape'
+gem 'grape-entity'
+gem 'grape-swagger'
+gem 'grape-swagger-rails'
